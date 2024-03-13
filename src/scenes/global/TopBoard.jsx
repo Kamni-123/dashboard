@@ -18,7 +18,7 @@ const Topbar = () => {
 
   return (
     <div className="">
-    <div className="flex justify-between p-2" >
+    <div className="flex justify-between p-4" >
       {/* SEARCH BAR */}
       <div className=" flex border rounded-md"
 

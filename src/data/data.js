@@ -1,5 +1,6 @@
 export const dataTeam=  [
         {
+            
             "end_year": "",
             "intensity": 6,
             "sector": "Energy",
